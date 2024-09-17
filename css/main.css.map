@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,EAAE;EACE,KAAK,ECDQ,GAAG",
+"sources": ["../scss/base/_typography.scss","../scss/abstracts/_colors.scss"],
+"names": [],
+"file": "main.css"
+}
