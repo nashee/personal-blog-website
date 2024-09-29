@@ -11,19 +11,4 @@ body {
   width: 900px;
   height: auto; }
 
-header {
-  padding: 10px;
-  background-color: gold;
-  font-size: 22px; }
-
-.first-button {
-  border: 2px solid black;
-  background-color: green;
-  width: 100px;
-  height: 100px; }
-  .first-button:hover {
-    background-color: yellow;
-    width: 150px;
-    height: 150px; }
-
 /*# sourceMappingURL=main.css.map */
